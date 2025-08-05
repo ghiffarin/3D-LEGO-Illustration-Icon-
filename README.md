@@ -1,12 +1,12 @@
 # Sustainability-Themed 3D LEGO® Icon Pack
 
-A tidy, modern pack of **20+ 3D icons** in LEGO®‑style—designed for sustainability messaging and visual storytelling.
+A tidy, modern pack of **50+ 3D icons** in LEGO®‑style—designed for sustainability messaging and visual storytelling.
 
 ---
 
 ## 🌱 What It Is
 
-- Over **20 custom 3D icons**, all rendered with a clean LEGO-like aesthetic.
+- Over **50 custom 3D icons**, all rendered with a clean LEGO-like aesthetic.
 - Focused on sustainability topics like **clean energy, recycling, plant growth, carbon capture**, and more.  
   [View sample post on Instagram](https://www.instagram.com/p/DM7py_evakA/?utm_source=chatgpt.com)  
   [Also posted on Threads](https://www.threads.com/%40ghiffarin___27/post/DM7p9JFSX9-/media?utm_source=chatgpt.com)
@@ -33,7 +33,7 @@ A tidy, modern pack of **20+ 3D icons** in LEGO®‑style—designed for sustain
 | Recycle Symbol      | Circular Economy                 |
 | Water Drop          | Water Conservation               |
 
-*…and ~14+ more covering electric transport, eco housing, composting, trees, and more.*
+*…and more covering electric transport, eco housing, composting, trees, and more.*
 
 ---
 
@@ -79,6 +79,6 @@ A tidy, modern pack of **20+ 3D icons** in LEGO®‑style—designed for sustain
 
 ### TL;DR
 
-- 20+ LEGO®‑style 3D icons focused on sustainability  
+- 50+ LEGO®‑style 3D icons focused on sustainability  
 - Clean, modular, versatile for slides or visuals  
 - Includes PNG + SVG, with flexible licensing and support
